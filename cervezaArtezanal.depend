@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1637247547 source:c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"rluti.h"
+	"fecha.h"
+	"cliente.h"
+	"menucliente.h"
+	"cerveza.h"
+	"menucerveza.h"
+	"ventas.h"
+	"menuventas.h"
+
+1638467321 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\fecha.h
+
+1637243698 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\cliente.h
+	"funcionescliente.h"
+
+1638467500 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\funcionescliente.h
+
+1638467168 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\menucliente.h
+
+1637244005 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\cerveza.h
+	"funcioncerveza.h"
+
+1636686091 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\funcioncerveza.h
+
+1637244062 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\menucerveza.h
+
+1638467273 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\ventas.h
+	"funcionventas.h"
+
+1637247082 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\funcionventas.h
+
+1637246636 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\menuventas.h
+
+1636711218 c:\users\sebastiancruz.desktop-2ma0f82\desktop\cervezartezana\cervezaartezanal\rluti.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
